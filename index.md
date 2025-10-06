@@ -14,15 +14,18 @@
 [comment]: # (respondToHashChanges: false)
 [comment]: # (Other settings are documented at https://revealjs.com/config/)
 
-### Preparing Future Software Engineers
+### GitDash
+#### A Data-Driven Dashboard for Monitoring Team Progress in Software Engineering Education
 ----------
+Rahul Bijoor &amp; Kevin Buffardi
+California State University, Chico
 
-Kevin Buffardi, Ph.D., Professor, California State University, Chico
+<img src="qr-gitdash.svg" alt="QR code for this presentation" width="20%">
+</img>
 
 [LearnByFailure.com](https://learnbyfailure.com/)
 
-<img src="qr-future-se.svg" alt="QR code for this presentation" width="30%">
-</img>
+
 
 <sub>[LearnByFailure.com](https://learnbyfailure.com/future-software-engineers/)</sub>
 
@@ -210,13 +213,13 @@ A bat and a ball cost `$1.10` in total. The bat costs `$1.00` more than the ball
 
 [comment]: # (!!!)
 
-#### Preparing Future Software Engineers
+#### GitDash
 
-<small>This presentation is accessible at [learnbyfailure.com/future-software-engineers/](https://learnbyfailure.com/future-software-engineers/) and its source is available on [GitHub](https://github.com/kbuffardi/future-software-engineers/).</small>
+<small>This presentation is accessible at [learnbyfailure.com/gitdash-ccsc25/](https://learnbyfailure.com/gitdash-ccsc25/) and its source is available on [GitHub](https://github.com/kbuffardi/gitdash-ccsc25).</small>
 
-<small>Special thanks to student co-authors: [Pedro Valdivia](https://www.linkedin.com/in/pedro-valdivia1/), [Destiny Rogers](https://www.linkedin.com/in/destiny-rogers/), and [Juan Aguirre-Ayala](https://www.linkedin.com/in/jaguirre-ayala/) who were all undergraduate researchers at Chico State.</small>
+<small>Special thanks to [Rahul Bijoor](https://www.linkedin.com/in/rahul-bijoor/) who lead the research and development for this paper while a Masters student at Chico State</small>
 
-<img src="qr-future-se.svg" alt="QR code for this presentation" width="30%">
+<img src="qr-gitdash.svg" alt="QR code for this presentation" width="30%">
 </img>
 
 <small>[Back to LearnByFailure](https://learnbyfailure.com/research/)

@@ -1,12 +1,13 @@
-# Preparing Future Software Engineers, 2025
+# GitDash
+## A Data-Driven Dashboard for Monitoring Team Progress in Software Engineering Education
 
-This repository contains the online presentation:
+This repository contains the online presentation for the paper:
 
-"Preparing Future Software Engineers" by Kevin Buffardi
+"GitDash: A Data-Driven Dashboard for Monitoring Team Progress in Software Engineering Education" by Rahul Bijoor and Kevin Buffardi.
 
 ## Presentation
 
-The slides can be viewed in a web browser by opening [index.html](index.html) or as hosted at [learnbyfailure.com/future-software-engineers/](https://learnbyfailure.com/future-software-engineers/).
+The slides can be viewed in a web browser by opening [index.html](index.html) or as hosted at [learnbyfailure.com/gitdash-ccsc25/](https://learnbyfailure.com/gitdash-ccsc25/).
 
 ## Rebuild HTML
 
