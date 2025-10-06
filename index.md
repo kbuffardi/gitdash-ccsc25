@@ -33,7 +33,7 @@ California State University, Chico
 [comment]: # (!!!)
 
 #### Motivation
-
+----------
 **Software Engineering Education**
 
 - Team projects, professional practices
@@ -45,7 +45,7 @@ California State University, Chico
 [comment]: # (||| data-auto-animate)
 
 #### Motivation
-
+----------
 **Traditional Evalution**
 
 - Peer/Self evaluation
@@ -56,7 +56,7 @@ California State University, Chico
 [comment]: # (||| data-auto-animate)
 
 #### Motivation
-
+----------
 **Opportunity**
 
 - Need for **automated, real-time** insights into teams
@@ -70,7 +70,7 @@ California State University, Chico
 [comment]: # (||| data-auto-animate)
 
 #### Motivation
-
+----------
 **Opportunity**
 
 - Median contributor's frequency of *any* contribution predicts both **team cohesion** and **lack of conflict** [(Buffardi, et al., 2025)](https://dl.acm.org/doi/abs/10.1145/3724363.3729039)
@@ -79,7 +79,7 @@ California State University, Chico
 [comment]: # (!!!)
 
 #### Classifying teams
-
+----------
 - Post-Hoc analysis
   - **10 years** of undergraduate Software Engineering class
   - [GitHub API](https://docs.github.com/) data
@@ -89,21 +89,21 @@ California State University, Chico
 [comment]: # (||| data-auto-animate)
 
 #### Classifying teams
-
+----------
 <img src="classification.png" alt="Principle component analysis classified teams into three groups: Struggling, Balanced, Hard Working" width="75%">
 </img>
 
 [comment]: # (||| data-auto-animate)
 
 #### Classifying teams
-
+----------
 <img src="table.png" alt="Hardworking teams had lowest conflict and highest collaboration and commitment. Balanced teams had the second best numbers for all three measurements, while Struggling teams had the worst performance for each metric." width="100%">
 </img>
 
 [comment]: # (!!!)
 
 #### Dashboard Design
-
+----------
 - Analysis motivated dashboard design that combines:
   - GitHub activity (commits, issues, PRs, etc.)
   - Team evaluation (CATME-based) classifications
@@ -115,14 +115,14 @@ California State University, Chico
 [comment]: # (||| data-auto-animate)
 
 #### Dashboard Design
-
+----------
 - Open source software: [rahulbijoor/GitDash](https://github.com/rahulbijoor/GitDash)
 - Demo on [local host](http://localhost:8501/)
 
 [comment]: # (!!!)
 
 #### Limitations
-
+----------
 - GitHub activity may not fully represent actual effort (e.g., offline work or non-code contributions)
 - Outliers or inactive team members (students who drop off the class) can skew average-based metrics
 - Factors other than Collaboration, Commitment, and Conflict influencing team dynamics.
@@ -130,7 +130,7 @@ California State University, Chico
 [comment]: # (||| data-auto-animate)
 
 #### Future Work
-
+----------
 - Deploy in real class environment to observe the behavioural changes.
 - Test other clustering methods/data
 - Apply in diverse educational contexts
@@ -138,7 +138,7 @@ California State University, Chico
 [comment]: # (!!!)
 
 #### GitDash
-
+----------
 <small>This presentation is accessible at [learnbyfailure.com/gitdash-ccsc25/](https://learnbyfailure.com/gitdash-ccsc25/) and its source is available on [GitHub](https://github.com/kbuffardi/gitdash-ccsc25).</small>
 
 <small>Special thanks to [Rahul Bijoor](https://www.linkedin.com/in/rahul-bijoor/) who lead the research and development for this paper while a Masters student at Chico State</small>
